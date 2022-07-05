@@ -1,3 +1,3 @@
 # LearningJavaScript_Dasar
-Memepelajari JavaScript dari NIOMIC 
+Memepelajari JavaScript dasar dari NIOMIC 
 
